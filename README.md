@@ -5,8 +5,8 @@ Section 1:
 2. Abubaker Mohammed UGR/4856/17
 3. Eyuel gezahegn UGR/1200/17 
 4. Henok Zegeye UGR/5413/17
-5. Abdella
-6. Arsema Teshome
+5. Abdellah Nuruhussein UGR/5973/17
+6. Arsema teshome ugr/1179/17
 
 This project focuses on evaluating various Information Retrieval (IR) architectures using the **Cranfield dataset**. The goal was to track how retrieval accuracy evolves when moving from simple keyword matching to modern neural "Cross-Encoder" re-ranking.
 
